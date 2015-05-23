@@ -1,10 +1,11 @@
 # MPG-app
 
 This is a simple shiny app for project assignment of the devdataprod class (https://www.coursera.org/course/devdataprod).
+Try it https://pased.shinyapps.io/mpg-app/
 
 ## Data
 
-The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-“74 models).
+The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-â€œ74 models).
 
 ## Purpose
 
